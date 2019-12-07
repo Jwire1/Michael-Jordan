@@ -1,1 +1,6 @@
+User-agent: Googlebot
+Disallow: /cgi-bin/
+Allow: /NBA Google web page.html
+Disallow: /pages/thankyou.html
+
 
