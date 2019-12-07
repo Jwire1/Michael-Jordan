@@ -4,3 +4,8 @@ Allow: /NBA Google web page.html
 Disallow: /pages/thankyou.html
 
 
+
+User-agent: Mobilebot
+Disallow: /cgi-bin/
+Allow: /NBA Google web page.html
+Disallow: /pages/thankyou.html
